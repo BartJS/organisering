@@ -46,4 +46,4 @@ Det er viktig å gi speakers nok informasjon til at de ikke er usikker på hva s
 
 ## Oppdatering av denne listen
 
-Har du gjennomført et BartJS-meetup? Var det noe du syns mangler i denne listen eller noe du syns var vanskelig å forstå? Fikk du noen problemer underveis som du syns andre burde vite om? Send gjerne en Pull Request for å utbedre denne guiden til hvordan det kan gjøres. Slik får vi det så smertefult for både arrangører, speakers og deltakere.
+Har du gjennomført et BartJS-meetup? Var det noe du syns mangler i denne listen eller noe du syns var vanskelig å forstå? Fikk du noen problemer underveis som du syns andre burde vite om? Send gjerne en Pull Request for å utbedre denne guiden til hvordan det kan gjøres. Slik får vi det så smertefullt for både arrangører, speakers og deltakere.
